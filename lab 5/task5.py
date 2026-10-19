@@ -13,3 +13,4 @@ if count == 0:
     print('Нет покупок')
 else:
     print(f'Покупок: {count}', f'Общая стоимость: {total} руб', f'Средняя стоимость: {total // count:.2f} руб', sep='\n')
+    
